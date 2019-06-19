@@ -299,7 +299,7 @@ scroll_to_more: true
 save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
-excerpt_description: true
+excerpt_description: false
 
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
@@ -406,7 +406,7 @@ wildfire:
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
-  theme: light # or dark
+  theme: dark # or dark
   locale: en # or other locales, e.g. zh-CN
   defaultAvatarURL: 
 # Any question? 
