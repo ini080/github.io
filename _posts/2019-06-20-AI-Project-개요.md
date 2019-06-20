@@ -24,4 +24,9 @@ tags:
 
 
 #### 자연어 처리 모델 ( Classical NLP & Deep Learning)
-hi
+
+
+### 딥러닝(Deep Leaning)
+
+## 정의
+# 컴퓨터가 스스로 학습할 수 있게 하기 위해 인공 신경망을 기반으로 하는 기계학습 기술
