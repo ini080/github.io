@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: JG Blo
+title: JG Blog
 subtitle: IT Tech
 description:
 author: JeongGeon
@@ -152,8 +152,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#cheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -471,7 +471,7 @@ gitalk:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-142489103-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
