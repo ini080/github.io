@@ -2,7 +2,7 @@
 layout: post
 title:  "AI Project 개요"
 date:   2019-06-20 09:30:00 +0900
-categories: 
+category: 
 - Project
 tags:
 - AI
