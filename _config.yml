@@ -79,7 +79,7 @@ plugins:
 favicon: "/assets/images/favicon.ico"
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "ini080, Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -120,9 +120,9 @@ menu:
   home: /
   categories: /categories/
   about: /about/
-  Algorithm : /Algorithm/
-  #archives: /archives/
-  #tags: /tags/
+  #Algorithm : /Algorithm/
+  archives: /archives/
+  tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -287,7 +287,7 @@ sidebar:
   b2t: true
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 
 # Blog rolls
@@ -363,7 +363,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night eighties
+highlight_theme: normal
 
 
 # ---------------------------------------------------------------
@@ -390,12 +390,12 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: ini080
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: false
+  # hide: false
 
 # <wildfire>
 wildfire:
