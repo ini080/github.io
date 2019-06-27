@@ -3,9 +3,8 @@ title: about
 layout: page
 ---
 
-## YoungJae Kwon [Nesoy]
-- Seoul. South Korea.
-- Jr. **Back-end** Software Engineer
+## JeongGeon Heo
+- Gwangju. South Korea.
 
 ## Links
 - Email : ini080@naver.comma
