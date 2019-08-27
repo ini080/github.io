@@ -16,7 +16,8 @@ menu:
   tags: 태그
   about: About
   search: 검색
-
+  Algorithm: 알고리즘
+  
 sidebar:
   overview: 흝어보기
   toc: 목차
