@@ -139,7 +139,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  algorithm : microchip
+  algorithm : heartbeat
   categories: th
   schedule: calendar
   tags: tags
