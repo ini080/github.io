@@ -145,7 +145,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-  Algorithm : network-wired
+  Algorithm : network
 
 
 
@@ -219,9 +219,8 @@ font:
 social:
   GitHub: https://github.com/ini080
   E-Mail: ini080@naver.com
-  Naver : https://naver.com || naver
+  Portfolio : http://13.124.104.44:8080/ || Portfolio
   #Weibo: https://weibo.com/yourname || weibo
-  Google: https://plus.google.com/ini080 || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
@@ -243,10 +242,10 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   Google: google
-
+Portfolio: user-circle
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: "/assets/images/prof.png"
+avatar: "/assets/images/picture.jpg"
 
 
 # Table Of Contents in the Sidebar
