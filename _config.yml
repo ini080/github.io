@@ -145,7 +145,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-  Algorithm : network
+  Algorithm : infinity
 
 
 
@@ -218,7 +218,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/ini080
-  E-Mail: ini080@naver.com
+  E-Mail: mailto:ini080@naver.com
   Portfolio : http://13.124.104.44:8080
   #Weibo: https://weibo.com/yourname || weibo
   #Twitter: https://twitter.com/yourname || twitter
