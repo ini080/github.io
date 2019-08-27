@@ -122,7 +122,7 @@ menu:
   home: /
   categories: /categories/
   about: /about/
-  Algorithm : /Algorithm/
+  Algorithm : /algorithm/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -139,13 +139,14 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
+  Algorithm : microchip
   categories: th
   schedule: calendar
   tags: tags
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-  Algorithm : infinity
+
 
 
 
