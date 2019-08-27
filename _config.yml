@@ -219,7 +219,7 @@ font:
 social:
   GitHub: https://github.com/ini080
   E-Mail: ini080@naver.com
-  Portfolio : http://13.124.104.44:8080/ || Portfolio
+  Portfolio : http://13.124.104.44:8080
   #Weibo: https://weibo.com/yourname || weibo
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -242,7 +242,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   Google: google
-Portfolio: user-circle
+  Portfolio: star
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
 avatar: "/assets/images/picture.jpg"
