@@ -7,7 +7,7 @@ title:
   categories: Categories
   tags: Tags
   about: About
-  algorithm: Algorithm
+  algorithm: algorithm
 
 author: Author
 
@@ -15,7 +15,7 @@ menu:
   home: Home
   archives: Archives
   categories: Categories
-  algorithm : Algorithm
+  algorithm : algorithm
   tags: Tags
   about: About
   search: Search
@@ -54,8 +54,8 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
-  theme: Theme
+  powered: "Hello"
+
 
 counter:
   tag_cloud:
