@@ -119,12 +119,22 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  home: / || home
   categories: /categories/
   about: /about/
   algorithm : /algorithm/
-  archives: /archives/
+  archives: /archives/ || archive
   tags: /tags/
+  Docs:
+    default: /docs/ || book
+    Third Party Services:
+      default: /third-party-services/ || plug
+      Algolia Search: /algolia-search/ || adn
+
+
+
+
+
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -246,8 +256,11 @@ social_icons:
   Portfolio: star
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: "/assets/images/picture.jpg"
-
+theme_config:
+  avatar:
+    url: "/assets/images/picture.jpg"
+    rounded: true
+    rotated: false
 
 # Table Of Contents in the Sidebar
 toc:
